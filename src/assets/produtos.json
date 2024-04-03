@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": "001",
+    "nome": "Caneta",
+    "valor": 1.00,
+    "quantidade": 100
+  },
+  {
+    "codigo": "002",
+    "nome": "Lápis",
+    "valor": 0.55,
+    "quantidade": 200
+  },
+  {
+    "codigo": "003",
+    "nome": "Borracha",
+    "valor": 0.75,
+    "quantidade": 150
+  },
+  {
+    "codigo": "004",
+    "nome": "Papel",
+    "valor": 2.00,
+    "quantidade": 300
+  }
+]
